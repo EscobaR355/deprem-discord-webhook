@@ -2,7 +2,7 @@ import feedparser
 import requests
 import time
 
-DISCORD_WEBHOOK_URL = "https://discord.com/api/webhooks/WEBHOOK_ID/WEBHOOK_TOKEN"
+DISCORD_WEBHOOK_URL = "https://discord.com/api/webhooks/WEBHOOK_ID/WEBHOOa_TOKEN"
 RSS_URL = "https://www.koeri.boun.edu.tr/sismo/zeqmap/rss/latest.rss"
 last_earthquake = None
 
